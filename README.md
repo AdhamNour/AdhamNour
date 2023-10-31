@@ -8,7 +8,7 @@ I have learned to program since I was 13, and found passion in full-stack develo
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [adhamnourelwaffaa@gmail.com](mailto:adhamnourelwaffaa@gmail.com)
-* 🧠  I'm learning Software Architecture
+* 🧠  I'm learning Embedded Systems 
 
 ### Skills
 
