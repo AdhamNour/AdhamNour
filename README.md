@@ -1,56 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adham Nour El-Waffaa
-============================================================================================================================================
+# Hi 👋 I'm Adham Nour El-Waffaa
 
-Full Stack and Mobile Developer
--------------------------------
+**Senior Data Engineer · Lakehouse & Real-Time Streaming**
 
-I have learned to program since I was 13, and found passion in full-stack developent includeing mobile development
+I've been programming since I was 13. Today I build cloud-native data platforms for regulated banks across the Middle East, and I'm focused on replacing legacy enterprise ETL with open, scalable stacks.
 
-* 🌍  I'm based in Cairo, Egypt
-* ✉️  You can contact me at [adhamnourelwaffaa@gmail.com](mailto:adhamnourelwaffaa@gmail.com)
-* 🧠  I'm learning Embedded Systems 
+- 📍 Based in Riyadh, Saudi Arabia (originally Cairo, Egypt)
+- 🏦 Senior Data Engineer at Ejada Systems, working on banking data platforms
+- 🔭 Working with medallion lakehouse architecture, Kafka streaming and analytics engineering (Airflow + dbt)
+- 🌱 Learning Apache Iceberg, Trino and Flink in depth, and still tinkering with embedded systems
+- ✉️ [adhamnourelwaffaa@gmail.com](mailto:adhamnourelwaffaa@gmail.com)
 
-### Skills
+## What I've delivered
 
+- ⚡ Cut a key financial pipeline's processing time by **83%** through SQL and ETL optimization (Crédit Agricole Egypt)
+- 🔄 Improved data freshness by **60%** and cut cross-system API calls by **70%** with a real-time Kafka pipeline
+- 🏗️ Moved a legacy Informatica/Oracle stack to Airflow + PostgreSQL with a Bronze/Silver/Gold design, giving **40%** faster processing and **25%** lower operating cost
+
+## Tech stack
+
+| Area | Tools |
+| --- | --- |
+| Lakehouse & storage | Apache Iceberg, Delta Lake, Trino, PrestoDB, Athena, HDFS |
+| Streaming | Apache Kafka (Confluent, Redpanda), Kafka Streams, ksqlDB, Flink, Spark |
+| Orchestration & transform | Apache Airflow, dbt, Informatica PowerCenter / DEI |
+| Cloud | AWS (S3, EMR, Glue, Lambda, Athena); familiar with GCP, Azure, OCI |
+| Languages | Python, SQL, Java |
+| Data modeling | Star and Snowflake schema, Data Vault 2.0, dimensional modeling |
+| Databases | PostgreSQL, Oracle, SQL Server, MySQL |
+| BI | Power BI, Incorta, OBIEE, Metabase |
+| DevOps | Docker, Git, CI/CD, Kubernetes (working knowledge) |
+
+I also have a full-stack and mobile background (React, React Native, Flutter, Node.js, Flask), which I used on my graduation project.
+
+## Certifications
+
+- Informatica Cloud Data Integration Developer, Professional (Informatica IDMC), Feb 2026
+- Oracle Cloud Infrastructure Enterprise Analytics Professional (Oracle), Aug 2023
+
+## Connect
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.linkedin.com/in/adham-nour-el-waffaa-mohammed/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+<a href="https://www.github.com/AdhamNour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+<a href="https://www.facebook.com/AdhamNourElwaffaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
 </p>
 
+## GitHub stats
 
-### Socials
+<a href="http://www.github.com/AdhamNour"><img src="https://github-readme-stats.vercel.app/api?username=AdhamNour&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="AdhamNour's GitHub stats" /></a>
 
-<p align="left"> <a href="https://www.facebook.com/AdhamNourElwaffaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/AdhamNour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adham-nour-el-waffaa-mohammed/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="http://www.github.com/AdhamNour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamNour&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak stats" /></a>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AdhamNour"><img src="https://github-readme-stats.vercel.app/api?username=AdhamNour&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdhamNour's GitHub stats" /></a>
-
-<a href="http://www.github.com/AdhamNour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamNour&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/AdhamNour" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamNour&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AdhamNour"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamNour&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
