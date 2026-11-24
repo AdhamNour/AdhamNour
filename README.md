@@ -7,7 +7,7 @@ I've been programming since I was 13. Today I build cloud-native data platforms 
 - 📍 Based in Riyadh, Saudi Arabia (originally Cairo, Egypt)
 - 🏦 Senior Data Engineer at Ejada Systems, working on banking data platforms
 - 🔭 Working with medallion lakehouse architecture, Kafka streaming and analytics engineering (Airflow + dbt)
-- 🌱 Learning Apache Iceberg, Trino and Flink in depth, and still tinkering with embedded systems
+- 🌱 Learning Apache Iceberg, Trino and Flink in depth
 - ✉️ [adhamnourelwaffaa@gmail.com](mailto:adhamnourelwaffaa@gmail.com)
 
 ## What I've delivered
